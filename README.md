@@ -32,7 +32,7 @@
 ### About 
 
 1. Endpoint ```/recognizer/uploads``` work with image file
-2. Endpoint ```recognizer/links``` work with array of image links
+2. Endpoint ```/recognizer/links``` work with array of image links
     
     Example:
     
