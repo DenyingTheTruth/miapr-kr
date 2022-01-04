@@ -2,7 +2,7 @@
 
 ### Workaround
 
-1. Need to install Node.JS v14+
+1. Need to install Node.JS v15+
 
 2. Need to install Tesseract OCR
 
